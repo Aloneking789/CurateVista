@@ -27,9 +27,9 @@ const LoginSignup = () => {
                                                     <input type="password" className="form-style" placeholder="Password" />
                                                     <i className="input-icon uil uil-lock-alt"></i>
                                                 </div>
-                                                <a href="https://www.web-leb.com/code" className="btn mt-4">Login</a>
+                                                <a href="" className="btn mt-4">Login</a>
                                                 <p className="mb-0 mt-4 text-center">
-                                                    <a href="https://www.web-leb.com/code" className="link">Forgot your password?</a>
+                                                    <a href="" className="link">Forgot your password?</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -54,7 +54,7 @@ const LoginSignup = () => {
                                                     <input type="password" className="form-style" placeholder="Password" />
                                                     <i className="input-icon uil uil-lock-alt"></i>
                                                 </div>
-                                                <a href="https://www.web-leb.com/code" className="btn mt-4">Register</a>
+                                                <a href="" className="btn mt-4">Register</a>
                                             </div>
                                         </div>
                                     </div>
